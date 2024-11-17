@@ -3,7 +3,7 @@
 This repository contains a collection of Google Colab notebooks demonstrating various advanced applications of **TimeGPT** and **Tabular** for time series forecasting, anomaly detection, synthetic data generation, and more. Each notebook includes example data, code, and results for specific use cases. Additionally, **RDL** and **RelBench** frameworks are used to train GNN-based models for tabular prediction tasks.
 
 ## Quick Video Links
-- 📺 [Video Demos] [TimeGPT Notebooks](#timegpt-notebooks)
+- 📺 TimeGPT video  https://youtu.be/MxTsovpZjk8 
 - 📺 [Video Demos] [Tabular Notebooks](#tabular-notebooks)
 - 📺 [Video Demos] [RDL and RelBench](#rdl-and-relbench)
 
