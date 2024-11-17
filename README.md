@@ -4,7 +4,7 @@ This repository contains a collection of Google Colab notebooks demonstrating va
 
 ## Quick Video Links
 - 📺 TimeGPT video  https://youtu.be/MxTsovpZjk8 
-- 📺 [Video Demos] [Tabular Notebooks](#tabular-notebooks)
+- 📺 Tabular video  https://youtu.be/yqo6nSygdTY
 - 📺 [Video Demos] [RDL and RelBench](#rdl-and-relbench)
 
 ## TimeGPT Notebooks
